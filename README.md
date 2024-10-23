@@ -1,7 +1,8 @@
 # DynamicPricingTutorial
 
-
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://closed-august-fab.notion.site/Dynamic-pricing-prediction-12676d3e01dc809eacdbf6aac71da9c7?pvs=4)
+<a href="&link=https://closed-august-fab.notion.site/Dynamic-pricing-prediction-12676d3e01dc809eacdbf6aac71da9c7?pvs=4" target="_blank">
+<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+</a>
 
 #### Tutorial
 - 아래 블로그를 참고해서 튜토리얼로 scikit-learn의 Random Forest Classification을 사용해봄
